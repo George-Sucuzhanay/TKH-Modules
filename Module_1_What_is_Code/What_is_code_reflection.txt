@@ -1,0 +1,48 @@
+In your own words, what is a computer really doing whenever you type a letter on a
+keyboard? (150 words max)
+
+A computer is recognizing the letter I type in zeroes and ones. Letters are stored and processed in ASCII codes. ASCII is also known as the American Standard Code for Information Interchange. A computer interprets any letter I press on my keyboard as a variation of patterns of ones and zeroes. ASCII codes are universal making it clear what the computer will output from someone typing a letter.
+
+In your own words, how do computers use input and output to create experiences? (250
+words max)
+
+Computers use inputs and outputs to create experiences by the use of accessories and devices. Our keyboard and second monitor are important devices to the user’s experience in using a computer. Other inputs are seen in lines of code with the user input to a website login to make sures that the account is secure and is being accessed by the right person. 
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150
+words max)
+
+Software products are “infinitely reproducible nothings” because they need hardware to work with it. Any piece of hardware needs an embedded operating system/ software that allows the user to interact with the hardware itself. Only providing a software product to users won’t be enough to allow them to accomplish their task. Both hardware and software are crucially important to one another since only having one or the other will make a horrible product.
+
+Explain in your own words how code becomes software. (150 words max)
+
+Code has allowed for many software applications to be created and created many websites. Essentially, lines of codes are made to create algorithms that solve problems. Depending on the programming languages the syntax will vary in some variations but will be able to complete the same task.
+
+Explain “algorithms” in your own words. (150 words max)
+
+Algorithms are lines of code that are steps of rules out together to solve a problem or task. Algorithms are used in creating the apps and websites we use in our daily lives. Algorithms are essentially sequences of events that happen from lots of lines of code. Developers create many algorithms and are looking for the most efficient and bug free one.
+
+Explain the DRY principle. (100 words max)
+
+The DRY principle means to not repeat yourself. When coding many developers tend to repeat their lines of code that could instead be better optimized. This makes sure that this is the most effective and concise algorithm for the task. The DRY principle makes sures that there isn't any redundancy. Manual testing should all be eliminated whenever possible through the use of automation.
+
+In your own words, what is object-oriented programming? (100 words max)
+
+Object-oriented programming has four basic concepts: encapsulation, abstraction, inheritance and polymorphism. The benefits of object oriented programming is that you can reuse code through inheritance, there is flexibility,  and effective problem solving. Object oriented programming is based on the concept of objects in which different data structures contain objects. These objects can be manipulated and called. In other words it can be assimilated to a filing system.
+
+In your own words explain data and how it relates to code. (100 Words max)
+
+Data is all around us. The websites we visit, the likes on posts in Instagram to purchase the local bodega are data. These stored information relate to code because many applications are used with all of the information of people’s lives. For businesses, knowing the most bought item in a week can be seen in algorithms with the use of user’s data. Our data is embedded to many apps that we use and even our digital footprint.
+
+What is a framework? (150 words max)
+
+A framework is a platform for creating software applications.  Many frameworks contain libraries that millions of people use. One common front-end framework is Bootstrap. Bootstrap is used in Twitter, Instagram and many more. Framework provides the skeleton for any application. Frameworks usually bundle lines of code and can be used.
+
+What is debugging? (150 words max)
+
+Debugging is the act of correct errors in lines of code by a developer. At times debugging can be extremely frustrating because they may just be spelling mistakes in someone’s code. Debugging is one of the most important tasks a developer does in order to make sure their program, app or code is working properly. There are various ways developers debug their code, one includes using print statements around the possible area of the bug in your code. Many times developers resort to websites online to troubleshoot issues with their code.
+
+Now, with more of an understanding of what code is, why do you want to learn how to
+code? (500 words max)
+
+Learning to code allows one to create an application or program of their liking. This skill
+ is important especially in the state of the world that we are in. I find coding as a skill that will be necessary for years to come. Learn to code allows anyone from any age to create something of their own whether that is solving an issue in their community or even something they are passionate about. Coding allows for creativity and entrepreneurial skills to thrive. Learning to code has allowed me the opportunity to create websites and programs of my interest. The analytical skills learned through writing lines of code and debugging also is a transferable skill for any industry. In New York City, the CS for All initiative by the Mayor of New York has put in place a target date to have computer science classes in all k-12 classrooms. I wish I could learn to code much earlier so that I can build projects and anything of my liking. Oftentimes, extracurricular activities get defunded or aren’t well known but computer science and coding should not be the case. I want to continue to learn about coding to understand the world around me and have any impact on other people’s lives.
