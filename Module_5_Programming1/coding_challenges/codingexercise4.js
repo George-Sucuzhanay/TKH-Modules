@@ -2,6 +2,7 @@
 // console.log( ) method. However you should be skipping every 4 numbers, so you would be logging 4,
 // 8, 12, 16, etc, etc
 
+// CodePen Link: https://codepen.io/George-Sucuzhanay/pen/JjNmQVw
 for (let step = 0; step < 4; step++) {
     // Runs 5 times, with values of step 0 through 4.
     console.log(step);

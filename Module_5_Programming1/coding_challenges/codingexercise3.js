@@ -5,6 +5,7 @@
 // [“Westly Snipes”, “Nicholas Cage”, “Nasir Jones”, “Sean Carter”, “Sean Combs”, “Michael Jordan”,
 // “Patrick Ewing”]
 
+// CodePen Link: https://codepen.io/George-Sucuzhanay/pen/LYygKaa
 
 const mainArray = ["Westly Snipes", "Nicholas Cage", "Nasir Jones", "Sean Carter", "Sean Combs", "Michael Jordan", "Patrick Ewing"]
 

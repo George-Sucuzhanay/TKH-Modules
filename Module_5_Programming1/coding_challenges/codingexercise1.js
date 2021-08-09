@@ -1,3 +1,4 @@
+// CodePen Link: https://codepen.io/George-Sucuzhanay/pen/yLbRdQz
 const weeklyIncome = parseInt(prompt("weekly-income:"))
 const foodCost = parseInt(prompt("food-cost:"))
 const housingCost = parseInt(prompt("housing-cost:"))

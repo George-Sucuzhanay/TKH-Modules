@@ -9,6 +9,8 @@
 // - D if marks is greater than 64 and less than or equal to 67.
 // - F if marks is less than or equal to 64.
 
+
+// CodePen Link: https://codepen.io/George-Sucuzhanay/pen/OJmBeqN
 let marks = parseInt(prompt("What is the mark?"))
 
 if (marks > 90) {
