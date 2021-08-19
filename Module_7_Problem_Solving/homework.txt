@@ -1,0 +1,56 @@
+Define a community problem you want to solve with technology and the people who it affects that you want to serve.
+
+A enduring community problem in Queens, NY I want to solve with technology is the lack of financial literacy skills.
+This problem affects immigrants in New York and their families. Generational wealth is lacking in many of these families and
+the need for resources to teach them essential financial literacy is key for their finanical wellbeing. The teens of many families 
+deal with having to learn on their how to manage their money since many families find it difficult to talk about it.
+
+Write a full description of your application and bonus points for including drawings(digital or physical).
+
+FIGMA: https://www.figma.com/proto/Ss3ijFXpzLJz6zgK3SPskw/Wireframing-Copy?node-id=229930%3A7&starting-point-node-id=229930%3A7
+
+Lastly, fill out a lean business canvas with all the necessary factors.
+
+/// Start of business canvas ///
+Problem Definition: What is the problem you are looking to solve?
+
+Solve of issue of lack of access to finanical literacy skills/resources.
+
+Customer Segments: Who experiences this problem and is likely to use your solution (Who is this for?)?
+
+The people who experience this problem is millions of immigrants and their families in New York City. 
+
+Solution: What is our MVP solution to this problem?
+
+Creating a React App that contains a Spanish/English finanical literacy website.
+
+Key Metrics: How will we know if our solution is effective?
+
+Using our online user activity and make sure our user journey/flow is effectively for users to complete at least 2 modules in our finanical literacy website.
+
+Unique Value Proposition: What makes our solution different from other solutions solving the same problem?
+
+Currently, there is no website targetting immigrants to teach them financial literacy skills. Other sites like Investopedia are written in English
+and are hard to comprehend.
+
+Revenue Structure: How will your solution make revenue so it is able to fund itself and consistently provide the service?
+
+Our revenue will consist of partnering with community centers across NYC to implement our website to clients lives at a set monthly/year price. Another revenue source can
+be pro access to our site which would also offer a certified CPA finanical counselor monthly appointments.
+
+Channels: How will we get our solution into the hands of those that can use it? Will it be downloaded/is it free? Will you need to train people on how to use it? Etc.
+
+Our solution wil need to be done by getting people on the ground to teach our to use our site. Using social media as ways to connect with immigrant communities will be necessary.
+
+Unfair Advantage: Is there a factor that makes your solution more effective than other solutions by the nature of a structural advantage either of the product or of your team
+(for example, do you have access to data that others don’t?)?
+
+The factor that makes my solution more effective than other solutions. My solution will make sure that immigrant communitites are able to access
+financial literacy skills. My solution will make sure resources will be accessibile and easy to use to users.
+
+Cost structure: What is the base cost it takes to create and maintain your solution? What is the cost of serving one person? The 100th person? The 1000th person?
+
+The base cost it will take to create and maintain our soultion is $70 a month. The cost of serving one person is around $35. The cost of serving 100 people
+will be around $350.
+
+/// End of business canvas ///
